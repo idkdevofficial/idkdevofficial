@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-well uh, me what more do you want huh?
+well uh, me....... what more do you want huh?
 Here are just personal stuff i build myself and some are under like small org, so uh...... yea
 
 ## Organizations what i own
