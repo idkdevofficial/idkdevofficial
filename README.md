@@ -12,7 +12,7 @@ Here are just personal stuff i build myself and some are under like small org, s
 
 Hint: some personal stuff or projects are under 'Someone' organization but some are here, free to check it duh :)
 
-                     
+## Stats               
 > [!NOTE]
 > i may update slowly or so
 
