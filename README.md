@@ -6,6 +6,7 @@ well uh, me....... what more do you want huh?
 
 Here are just personal stuff i build myself and some are under like small org, so uh...... yea
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6XC1ZJ)
 
 ## Organizations what i own
 [Someone](https://github.com/someonestuff)
