@@ -6,7 +6,7 @@ well uh, me....... what more do you want huh?
 
 Here are just personal stuff i build myself and some are under like small org, so uh...... yea
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6XC1ZJ)
+
 
 ## Organizations what i own
 [Someone](https://github.com/someonestuff)
@@ -18,7 +18,14 @@ Hint: some personal stuff or projects are under 'Someone' organization but some 
 > i may update slowly or so
 
 
-![idkdevofficial's Stats](https://github-readme-stats.vercel.app/api?username=idkdevofficial&theme=onedark&show_icons=true&hide_border=false&count_private=true) ![idkdevofficial's Streak](https://github-readme-streak-stats.herokuapp.com/?user=idkdevofficial&theme=onedark&hide_border=false) 
-                     ![idkdevofficial's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idkdevofficial&theme=onedark&show_icons=true&hide_border=false&layout=compact)
+![s0mEsFt's Stats](https://github-readme-stats.vercel.app/api?username=s0mEsFt&theme=gotham&show_icons=true&hide_border=true&count_private=false) ![s0mEsFt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=s0mEsFt&theme=gotham&hide_border=true)
+                     ![s0mEsFt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s0mEsFt&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+
+# Social
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6XC1ZJ)
 
 
+
+
+
+More [here](https://linktr.ee/somesft)
