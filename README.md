@@ -22,7 +22,6 @@ Hint: some personal stuff or projects are under 'Someone' organization but some 
                      ![s0mEsFt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s0mEsFt&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 # Social
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6XC1ZJ)
 
 
 
